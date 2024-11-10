@@ -1,0 +1,33 @@
+#quiz-container {
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#timer {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+#score-container {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+#feedback-container {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+}
